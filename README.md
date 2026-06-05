@@ -46,6 +46,7 @@ I studied Physics (Nanotechnology) and Electrical Engineering at BME, then worke
 ## Interests
 
 - Electronic music creation
+- Hiking
 - Reading about politics
 - Reading about economics
 
