@@ -1,6 +1,6 @@
 # Hi, I'm Adam Torok
 
-Physicist turned startup builder and full-stack developer.
+Quantum physicist, builder and full-stack developer.
 
 ## About
 
