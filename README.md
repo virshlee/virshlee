@@ -30,6 +30,16 @@ I studied Physics (Nanotechnology) and Electrical Engineering at BME, then worke
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=matlab&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_Language-007ACC?style=flat-square&logo=target&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F61?style=flat-square&logo=analytics&logoColor=white)
+![Scientific Computing](https://img.shields.io/badge/Scientific_Computing-005F73?style=flat-square&logo=scipy&logoColor=white)
+![Simulation](https://img.shields.io/badge/Simulation-9B5DE5?style=flat-square&logo=cpu&logoColor=white)
 
 ## Experience Highlights
 
