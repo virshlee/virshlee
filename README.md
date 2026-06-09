@@ -57,8 +57,7 @@ I studied Physics (Nanotechnology) and Electrical Engineering at Technical Unive
 
 - Electronic music creation
 - Hiking
-- Reading about politics
-- Reading about economics
+- Reading about politics, economics
 
 ## Contact
 
