@@ -4,7 +4,7 @@ Physicist, electrical engineer, builder and full-stack developer.
 
 ## About
 
-I studied Physics (Nanotechnology) and Electrical Engineering at Technical university of Budapest, then worked on quantum hardware and nuclear simulation before moving deeper into software and product building. I was Founder in Residence at Station F (Pioneers), where I validated startup ideas and built MVPs.
+I studied Physics (Nanotechnology) and Electrical Engineering at Technical University of Budapest, then worked on quantum hardware and nuclear simulation before moving deeper into software and product building. I was Founder in Residence at Station F (Pioneers), where I validated startup ideas and built MVPs.
 
 ## Featured Project: Samiori
 
