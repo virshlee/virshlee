@@ -1,6 +1,6 @@
 # Hi, I'm Adam Torok
 
-Physicist, electircal engineer, builder and full-stack developer.
+Physicist, electrical engineer, builder and full-stack developer.
 
 ## About
 
