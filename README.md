@@ -43,9 +43,9 @@ I studied Physics (Nanotechnology) and Electrical Engineering at Technical Unive
 
 ## Experience Highlights
 
-- **Quandela (R&D Intern):** Built software and physical test setups for automated characterization of quantum dot hardware.
-- **CEA Quantronics (Research Intern):** Developed Python automation scripts and data pipelines for high-frequency measurements across multiple quantum devices.
-- **BME Hybrid Circuits Lab (Research Intern):** Combined cleanroom nanofabrication work with custom data processing and visualization tooling.
+- **Quandela:** Built software and physical test setups for automated characterization of quantum dot hardware.
+- **CEA Quantronics:** Developed Python automation scripts and data pipelines for high-frequency measurements across multiple quantum devices.
+- **BME Nanoelectronics Research Lab:** Combined cleanroom nanofabrication work with custom data processing and visualization tooling.
 
 ## Other Projects
 
